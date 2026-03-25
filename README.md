@@ -11,7 +11,7 @@ Repositório dedicado ao estudo e implementação de estratégias avançadas de 
 Vamos criar uma aplicação que gerencia tarefas com todas as operações essenciais!
 
 # Tecnologias utilizadas
-- Angular 20
+- Angular 18
 - NX
 - Jest
 - Cypress
@@ -25,3 +25,6 @@ Vamos criar uma aplicação que gerencia tarefas com todas as operações essenc
 - Testes resilientes
 - Mocking
 - Smart / Dumb Components
+
+# Link para ver o projeto
+https://github.com/gabrielmeira-dev/gerenciador-tarefas
